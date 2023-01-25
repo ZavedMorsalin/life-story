@@ -2,4 +2,4 @@ I'm Zaved
 I'm 30 years old
 I've completed B.Sc
 I've started my web development learning in 2019.
-
+logo alignment is fixed
